@@ -19,5 +19,3 @@ Score Tracking: Calculates the final score based on user input.
 Detailed Summary: The Results Screen displays a scrollable list showing the question, the user's answer, and the correct answer, with color-coded indicators.
 
 Restart Functionality: Allows the user to reset the quiz and try again.
-
-![image alt](https://github.com/suyog6967/flutter_quiz_app/blob/57fc8c0ac387a21c739c52283a5f3bdbc2565144/Screenshot_1770822167.png)
